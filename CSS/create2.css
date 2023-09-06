@@ -1,0 +1,33 @@
+.body{
+    width: 50%;
+}
+.toe[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+    background-color: white;
+    color: purple;
+  }
+.button{
+    background-color: rgb(71, 71, 128);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: left;
+}
+.button:hover{
+    color: white;
+    background-color: blue;
+}
+.toe[type=text]:active{
+    color: crimson;
+}
+/*#main{
+    background-color: green;/*
+}

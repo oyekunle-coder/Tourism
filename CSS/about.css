@@ -1,0 +1,15 @@
+.one{
+    
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+
+    font-size: larger;
+    color: yellow;
+
+    background-image: url("/Pictures/istockphoto-1277142237-612x612.webp");
+    background-position: center;
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
